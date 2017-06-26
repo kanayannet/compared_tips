@@ -155,6 +155,6 @@
 
 - ちなみに vue はこう
 
-<pre>
-    <script src="https://unpkg.com/vue"></script>
-</pre>
+```html
+<script src="https://unpkg.com/vue"></script>
+```
