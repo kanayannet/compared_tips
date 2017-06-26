@@ -261,8 +261,7 @@ var app = new Vue({
 
 # 雑感
 
-※ jquery 使ってる視線
-
+- ※ jquery 使ってる視線
 - Vue.js の方が入りやすいかな?
     - 理由
         - npm なしでもいけそう
@@ -273,8 +272,7 @@ var app = new Vue({
 
 # 使いどころ
 
-※ jquery 使ってる視線
-
+- ※ jquery 使ってる視線
 - jquery だけじゃ無理な部分
     - SPA
         - DOMの書き換えが多いページ
