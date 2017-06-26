@@ -289,5 +289,19 @@ var app = new Vue({
 - このスライド
     - gitpitch で書いてるよ
     - https://gitpitch.com/
+        
+---
+
+# 全然関係ないど
+
+- reveal.js みたい
+- syntax ハイライトもできる
+- 動画も流せる
+
+``` markdown
+![Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
+```
+
+---
 
 # ご清聴、ありがとうございました。
