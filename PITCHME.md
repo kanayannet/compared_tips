@@ -3,6 +3,8 @@
 <span style="font-size:35pt">Gunma.web #28</span><br>
 @kanayannet
 
+---
+
 # 自己紹介
 
 - 氏名: 金澤 宏昭
