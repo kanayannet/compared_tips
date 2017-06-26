@@ -299,8 +299,9 @@ var app = new Vue({
 - 動画も流せる
 
 ```
- \![Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
+！[Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
 ```
+![Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
 
 ---
 
