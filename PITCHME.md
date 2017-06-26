@@ -298,8 +298,8 @@ var app = new Vue({
 - syntax ハイライトもできる
 - 動画も流せる
 
-``` markdown
-![Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
+```
+ \![Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
 ```
 
 ---
