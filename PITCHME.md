@@ -290,19 +290,21 @@ var app = new Vue({
     - gitpitch で書いてるよ
     - https://gitpitch.com/
         
----
++++
 
 # 全然関係ないど
 
 - reveal.js みたい
 - syntax ハイライトもできる
 - 動画も流せる
+    - youtube も簡易的に...
 
-```
-！[Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
-```
++++
+
+# 動画
+
 ![Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
 
----
++++
 
 # ご清聴、ありがとうございました。
