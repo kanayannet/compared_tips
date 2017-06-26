@@ -15,7 +15,7 @@
 
 ---
 
-# What's Compare
+## What's Compare
 
 - 比較という意味
 - 比較対象
@@ -295,6 +295,7 @@ var app = new Vue({
 # 関係ないど
 
 - reveal.js みたい
+    - ソース見ると...
 - syntax ハイライトもできる
 - 動画も流せる
     - youtube も簡易的に...
@@ -307,4 +308,11 @@ var app = new Vue({
 
 ---
 
-# ご清聴、ありがとうございました。
+# ご清聴<br>ありがとうございました。
+
++++
+
+# 質疑応答
+
+- GitPitch 以外なら受け付けます。
+    - GitPitch は懇談会でw
