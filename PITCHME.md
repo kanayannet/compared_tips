@@ -284,7 +284,7 @@ var app = new Vue({
 
 ---
 
-# 全然関係ないど
+# 関係ないど
 
 - このスライド
     - gitpitch で書いてるよ
@@ -292,7 +292,7 @@ var app = new Vue({
         
 +++
 
-# 全然関係ないど
+# 関係ないど
 
 - reveal.js みたい
 - syntax ハイライトもできる
@@ -305,6 +305,6 @@ var app = new Vue({
 
 ![Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
 
-+++
+---
 
 # ご清聴、ありがとうございました。
