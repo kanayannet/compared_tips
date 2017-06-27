@@ -121,7 +121,7 @@
 
 # 2nd
 
-- React、Angularになじめなかった僕に手を差し伸べてくれたVue.js
+- React、Angularになじめなかった僕に<br>手を差し伸べてくれたVue.js
     - ソース元
         - http://qiita.com/samuraikun/items/bb2939296bbead341293
 
@@ -129,7 +129,7 @@
 
 ## 2nd
 
-- Angularで違和感を感じた部分をVue.jsが補っている部分があるから人気が出ているかなあと感じた。
+- 「Angularで違和感を感じた部分をVue.jsが補っている部分があるから人気が出ているかなあと感じた。」
 
 +++
 
