@@ -121,9 +121,9 @@
 
 # 2nd
 
-- React、Angularになじめなかった僕に<br>手を差し伸べてくれたVue.js
-    - ソース元
-        - http://qiita.com/samuraikun/items/bb2939296bbead341293
+- React、Angularになじめなかった僕に手を差し伸べてくれたVue.js
+- ソース元
+    - http://qiita.com/samuraikun/items/bb2939296bbead341293
 
 +++
 
