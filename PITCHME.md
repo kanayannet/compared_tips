@@ -18,24 +18,24 @@
 ## What's Compare
 
 - 比較という意味
-- 比較対象
-    - Vue と Angular
+- 比較対象 |
+    - Vue と Angular |
 
 +++
 
 ## What's Tips
 
 - 豆知識、ヒントなどを集めたもの
-    - Vue と Angular 比較して役立ちそうなものを集める
+    - Vue と Angular 比較して役立ちそうなものを集める |
 
 +++
 
 ## なぜ話すのか?
 
 - Vue と Angular よく解ってない
-- 比較できるほど詳しくない
-    - 他の人の記事を参考にしながら..
-    - Tips にできればいいなぁ。
+- 比較できるほど詳しくない |
+    - 他の人の記事を参考にしながら.. |
+    - Tips にできればいいなぁ。 |
 
 +++
 
@@ -57,8 +57,8 @@
 # 1st
 
 - いくつかの Vue の構文は AngularJS と非常に良く似ているように見える
-    - ソース元
-        - https://jp.vuejs.org/v2/guide/comparison.html
+    - ソース元 |
+        - https://jp.vuejs.org/v2/guide/comparison.html |
 
 +++
 
