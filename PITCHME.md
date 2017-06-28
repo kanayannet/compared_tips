@@ -58,7 +58,7 @@
 
 - いくつかの Vue の構文は AngularJS と非常に良く似ているように見える
     - ソース元 |
-        - https://jp.vuejs.org/v2/guide/comparison.html |
+        - https://jp.vuejs.org/v2/guide/comparison.html
 
 +++
 
