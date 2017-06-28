@@ -282,7 +282,6 @@ var app = new Vue({
     - UIの変更があればデータの更新を自動的に行う機能
 - コンポーネント指向
     - UIコンポーネント（部品）を組み合わせてアプリケーションを作る
-    - Web Components を意識?
 
 +++
 
@@ -294,6 +293,27 @@ var app = new Vue({
     - 制約がなく、シンプルで学習コストが低いのは、Vue.jsの大きな利点
 - 制約がないということ
     - 制約がないことから、各個人によって書き方に相違が出やすいことも意識しておいてほしいことです。
+- Web Components を意識?
+
++++
+
+## Web Components?
+
+- 以下の4つの仕様を組み合わせた際の総称。
+    - Templates
+    - HTML Imports
+    - Custom Elements
+    - Shadow DOM
+- まだ W3C Draft 段階
+- ソース元
+    - http://gihyo.jp/dev/column/newyear/2017/web-components-prospect
+
++++
+
+# 知らない単語
+
+- 今回最大の収穫かな?
+    - 資料作成を目指し調査していく過程...
 
 ---
 
