@@ -71,7 +71,7 @@
 ## 1st
 
 - API と設計の両方の観点から、Vue は AngularJS と比較してとても単純です。
-- 重要なアプリケーションを構築するために十分学ぶのには大抵 1 日もかからないでしょう。
+- 重要なアプリケーションを構築するために十分学ぶのには大抵 1 日もかからないでしょう。 |
 
 +++
 
@@ -88,16 +88,16 @@
 ## 1st
 
 - 本当か?
-    - 試しにチュートリアルをやり始める
+    - 試しにチュートリアルをやり始める |
 
 +++
 
 ## 1st
 
 - 4-5時間経過
-    - 終わらないよ汗
-- 翌日
-    - あと少しで終わりそう...
+    - 終わらないよ汗 |
+- 翌日 |
+    - あと少しで終わりそう... |
 
 +++
 
@@ -114,15 +114,15 @@
 ## 1st
 
 - よく見ると..
-    - 「大抵」１日
-        - 俺が未熟者なのかな〜汗
+    - 「大抵」１日 |
+        - 俺が未熟者なのかな〜汗 |
 
 ---
 
 # 2nd
 
 - React、Angularになじめなかった僕に手を差し伸べてくれたVue.js
-- ソース元
+- ソース元 |
     - http://qiita.com/samuraikun/items/bb2939296bbead341293
 
 +++
@@ -142,10 +142,10 @@
 ## 2nd
 
 - Angular
-    - git clone https://github.com/angular/quickstart.git quickstart
-    - cd quickstart
-    - npm install
-    - npm start    
+    - git clone https://github.com/angular/quickstart.git quickstart |
+    - cd quickstart |
+    - npm install |
+    - npm start |
 
 +++
 
@@ -180,16 +180,16 @@ var app = new Vue({
 # 3rd
 
 - 最も勢いのある成長があったフレームワークはvue.jsである。
-- Angular 4のリリースがある。技術的には大きな変化があるが、それはバージョン1から2ほどの劇的な変化ではない。
-    - ソース元
-        - https://www.infoq.com/jp/news/2017/01/javascript-2017-frameworks
+- Angular 4のリリースがある。技術的には大きな変化があるが、それはバージョン1から2ほどの劇的な変化ではない。 |
+    - ソース元 |
+        - https://www.infoq.com/jp/news/2017/01/javascript-2017-frameworks 
 
 +++
 
 ## 3rd
 
 - 成長のあったフレームワーク
-    - 何をもって?
+    - 何をもって? |
 
 +++
 
