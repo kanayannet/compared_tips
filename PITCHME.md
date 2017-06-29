@@ -222,6 +222,48 @@ var app = new Vue({
 
 ---
 
+# 4th
+
+- Vue.jsから手軽に始めるJavaScriptフレームワーク
+    - ソース元 |
+        - http://qiita.com/icoxfog417/items/49f7301be502bc2ad897 |
+
++++
+
+## 4th
+
+- Knockout.js , Angular と比較している
+- Knockout.js |
+    - IEサポート(6-11) |
+    - HTML5標準のバインディング |
+        - v- で始まる属性を設定することでバインディングは.. |
+            - HTML標準には当然ない属性なのでエディタによっては警告
+
++++
+
+## 4th
+
+- Angular.js
+    - Directive(v-bindなど)と呼ばれる要素でバインディング |
+    - Filterによるインラインでの処理 |
+        - Vue との共通点がある
+    - Routing |
+        - まるでサーバーサイドのコントローラーのようなことができる
+        - Vue.js には標準でないもの |
+            - ※ 公式サイトにこれ使えばいいよはある。 |
+                - https://jp.vuejs.org/v2/guide/routing.html
+    - Testable
+        - Angular.jsはモジュール同士が疎結合なので、テストがしやすい |
+            - ※ 公式サイトに単体テストのやり方がある |
+                - https://jp.vuejs.org/v2/guide/unit-testing.html 
+
+## 4th
+
+- いくつかはその通りと感じたが..実際はそうじゃなかったり
+    - うーん。ドキュメントが古かった時代なのかな〜？
+
+---
+
 # まとめ...
 
 - どっちがどうなのか?はちょっと触ったくらいじゃ解らない。
