@@ -247,8 +247,14 @@ var app = new Vue({
     - Directive(v-bindなど)と呼ばれる要素でバインディング |
     - Filterによるインラインでの処理 |
         - Vue との共通点がある
-    - Routing |
-        - まるでサーバーサイドのコントローラーのようなことができる
+
++++
+
+## 4th
+
+- Angular.js
+    - Routing
+        - まるでサーバーサイドのコントローラーのようなことができる |
         - Vue.js には標準でないもの |
             - ※ 公式サイトにこれ使えばいいよはある。 |
                 - https://jp.vuejs.org/v2/guide/routing.html
@@ -256,6 +262,8 @@ var app = new Vue({
         - Angular.jsはモジュール同士が疎結合なので、テストがしやすい |
             - ※ 公式サイトに単体テストのやり方がある |
                 - https://jp.vuejs.org/v2/guide/unit-testing.html 
+
++++
 
 ## 4th
 
