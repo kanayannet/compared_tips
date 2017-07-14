@@ -148,7 +148,9 @@
 ## 2nd
 
 - ああ、なるほど。
-- node(npm) 当たり前の世界になってるのね。
+- node(npm) 当たり前の世界になってるのね。 |
+- example |
+    - https://embed.plnkr.co/?show=preview
 
 +++
 
