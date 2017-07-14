@@ -150,7 +150,7 @@
 - ああ、なるほど。
 - node(npm) 当たり前の世界になってるのね。 |
 - example |
-    - https://angular.io/generated/live-examples/toh-pt6/eplnkr.html
+    - https://angular.io/generated/live-examples/toh-pt1/eplnkr.html
 
 +++
 
